@@ -19,3 +19,4 @@ It simply documents my personal notes, thoughts, and reflections for each proble
 ---
 
 ## Problem Specific Documentation and Notes :
+one liner answer is `s.trim().split(" ").pop().length`
